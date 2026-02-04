@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "AHI33",
+  "description": "Service de médecine du travail à Bordeaux",
+  "url": "https://www.ahi33.org",
+  "telephone": "+33 5 XX XX XX XX",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "[Adresse]",
+    "addressLocality": "Bordeaux",
+    "postalCode": "33000",
+    "addressCountry": "FR"
+  },
+  "areaServed": {
+    "@type": "State",
+    "name": "Nouvelle-Aquitaine"
+  },
+  "image": "https://www.ahi33.org/logo.png",
+  "priceRange": "€€"
+}
+</script>
