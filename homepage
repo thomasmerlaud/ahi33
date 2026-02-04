@@ -34,6 +34,11 @@
 
 <!-- SECTION 4 : CTA -->
 <section class="cta-homepage">
-  <a href="/les-centres" class="btn btn-primary">Trouver un centre</a>
-  <a href="/vous-etes-employeur/devenez-adherent" class="btn btn-secondary">Devenir adhérent</a>
+  <  <h3>Ressources utiles</h3>
+  <ul>
+    <li><a href="/les-centres">Trouver un centre AHI33</a></li>
+    <li><a href="/vous-etes-employeur/suivi-des-salaries">Suivi des salariés</a></li>
+    <li><a href="/offres-de-services/evaluer-les-risques-professionnels">Évaluation des risques</a></li>
+    <li><a href="/vous-etes-employeur/prendre-rdv-pour-vos-salaries">Prendre RDV</a></li>
+  </ul>
 </section>
