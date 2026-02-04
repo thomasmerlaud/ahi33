@@ -1,0 +1,39 @@
+<!-- SECTION 1 : Introduction (100-150 mots) -->
+<section class="intro-medecine-travail">
+  <p>L'AHI33 est le leader de la <strong>médecine du travail à Bordeaux</strong> et en Gironde. Depuis plus de 80 ans, nous accompagnons les entreprises dans la <strong>prévention des risques professionnels</strong> et la <strong>protection de la santé de leurs salariés</strong>.</p>
+  
+  <p>Avec <strong>34 centres répartis en Nouvelle-Aquitaine</strong>, dont 5 à Bordeaux, nous proposons une <strong>médecine du travail adaptée à votre secteur d'activité</strong>.</p>
+</section>
+
+<!-- SECTION 2 : Services (H2 + 150 mots) -->
+<section class="services-overview">
+  <h2>Nos services de médecine du travail</h2>
+  
+  <ul>
+    <li><strong>Visites médicales obligatoires</strong> : embauche, périodique, reprise</li>
+    <li><strong>Suivi médical des salariés</strong> : dossiers sécurisés et confidentiels</li>
+    <li><strong>Évaluation des risques professionnels</strong> : audit complet de votre entreprise</li>
+    <li><strong>Vaccinations en entreprise</strong> : grippe, COVID, etc.</li>
+    <li><strong>Maintien dans l'emploi</strong> : accompagnement personnalisé</li>
+    <li><strong>Conseils en prévention</strong> : expertise de nos médecins</li>
+  </ul>
+</section>
+
+<!-- SECTION 3 : Avantages (H2 + 100 mots) -->
+<section class="advantages">
+  <h2>Pourquoi choisir AHI33 ?</h2>
+  
+  <ul>
+    <li> 34 centres en Nouvelle-Aquitaine</li>
+    <li> Équipe pluridisciplinaire (médecins, infirmiers, préventeurs)</li>
+    <li> Horaires étendus : lun-ven 7h30-18h30</li>
+    <li> Prise de RDV en ligne en moins de 48h</li>
+    <li> 31 500 entreprises adhérentes</li>
+  </ul>
+</section>
+
+<!-- SECTION 4 : CTA -->
+<section class="cta-homepage">
+  <a href="/les-centres" class="btn btn-primary">Trouver un centre</a>
+  <a href="/vous-etes-employeur/devenez-adherent" class="btn btn-secondary">Devenir adhérent</a>
+</section>
