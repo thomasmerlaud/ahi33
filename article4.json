@@ -1,0 +1,85 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "Comment prendre rendez-vous à la médecine du travail",
+  "description": "Comment prendre rendez-vous à la médecine du travail ? Guide pas à pas. En ligne, par téléphone ou email. Conseils pratiques AHI33.",
+  "image": {
+    "@type": "ImageObject",
+    "url": "https://www.ahi33.org/images/article-prendre-rdv.jpg",
+    "width": 1200,
+    "height": 600
+  },
+  "datePublished": "2026-02-05",
+  "dateModified": "2026-02-05",
+  "author": {
+    "@type": "Organization",
+    "name": "AHI33",
+    "url": "https://www.ahi33.org",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.ahi33.org/logo.png",
+      "width": 200,
+      "height": 60
+    }
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "AHI33",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://www.ahi33.org/logo.png",
+      "width": 200,
+      "height": 60
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://www.ahi33.org/actualites/conseils/prendre-rdv-medecine-travail"
+  },
+  "articleBody": "Vous devez prendre un rendez-vous à la médecine du travail ? Cet article vous explique comment faire, étape par étape...",
+  "wordCount": 1200,
+  "inLanguage": "fr-FR"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Puis-je prendre RDV pour quelqu'un d'autre ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, si vous êtes employeur, vous pouvez prendre RDV pour vos salariés via notre plateforme dédiée."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Puis-je annuler ou reporter mon RDV ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, vous pouvez annuler ou reporter votre RDV en contactant votre centre au moins 48h avant."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Que faire si je suis malade le jour du RDV ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Contactez votre centre pour reporter votre visite. Vous ne serez pas pénalisé."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien coûte une visite médicale ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le coût dépend de votre secteur d'activité et du type de visite. Contactez-nous pour un devis."
+      }
+    }
+  ]
+}
+</script>
